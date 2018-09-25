@@ -1,0 +1,105 @@
+html,body {
+    background-color: bisque;
+ /* background:url("gd.htm") */
+
+
+}
+h1{
+
+    color: aquamarine;
+    border: 30%;
+    
+    
+}
+#firststep{
+/* border:solid; */
+    height:400px;
+    width:400px;
+background-color:blue;  
+box-shadow: 4px 8px 0 ;
+text-align: center;
+color: yellow;
+font-size: 20px;
+
+
+}    
+h2{
+
+color: red;
+
+}
+#secondstep{
+margin-left: 10px;
+height:400px;
+width:400px;
+background-color: blueviolet;
+box-shadow: 4px 8px 0 ;
+text-align: center;
+color: yellow;
+font-size: 20px;
+
+
+}
+
+#thirdstep{
+
+    height:400px;
+    width:400px;
+    background-color: rgb(226, 43, 43);
+    box-shadow: 4px 8px 0 black;
+    margin-left: 10px;  
+    text-align: center;
+    grid-column: 3;
+    color: yellow;
+    font-size: 20px;
+    
+    
+
+}
+
+
+
+
+.parent{
+  display:grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: 300px 300px;
+  grid-gap: 10px;
+  margin-top: 100px;
+  
+
+
+}
+
+
+}
+.fa-linkedin {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50px;
+   
+    
+    }
+   
+
+
+
+
+img{
+    border-radius: 70%; 
+    height:150px;
+    width: 200px;
+    
+    
+    
+    
+   
+}
+
+
+    
+    
+]
